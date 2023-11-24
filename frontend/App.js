@@ -1,13 +1,13 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Nav from './component/Nav';
-import Footer from './component/Footer';
-import Signup from './component/Signup';
-import PrivateComponent from './component/PrivateComponent';
-import Login from './component/Login';
-import AddProduct from './component/AddProduct';
-import ProductList from './component/ProductList';
-import UpdateProduct from './component/UpdateProduct';
+import Nav from './components/Nav';
+import Footer from './components/Footer';
+import Signup from './components/Signup';
+import PrivateComponent from './components/PrivateComponent';
+import Login from './components/Login';
+import AddProduct from './components/AddProduct';
+import ProductList from './components/ProductList';
+import UpdateProduct from './components/UpdateProduct';
 
 function App() {
   return (
